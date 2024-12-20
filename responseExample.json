@@ -1,0 +1,337 @@
+{
+    "component": "Certificates\/Index",
+    "props": {
+        "results": {
+            "federal-court": {
+                "Certid\u00e3o C\u00edvel": {
+                    "code": 200,
+                    "code_message": "A requisi\u00e7\u00e3o foi processada com sucesso.",
+                    "header": {
+                        "api_version": "v2",
+                        "api_version_full": "2.2.23-20241218090505",
+                        "product": "Consultas",
+                        "service": "tribunal\/trf3\/certidao-distr",
+                        "parameters": {
+                            "abrangencia": "1",
+                            "cpf": "36835372800",
+                            "tipo": "1"
+                        },
+                        "client_name": "F2 Data Tecnologia Ltda",
+                        "token_name": "Dify",
+                        "billable": true,
+                        "price": "0.24",
+                        "requested_at": "2024-12-18T09:42:13.000-03:00",
+                        "elapsed_time_in_milliseconds": 49627,
+                        "remote_ip": "179.99.174.232",
+                        "signature": "U2FsdGVkX18y4LO49COCX1eZX0n0cpAxmFH0vX9P9WNQvmXaeiezPhz6HM3uW9OCMldyD4wsivyYxwAg+RF2qw=="
+                    },
+                    "data_count": 1,
+                    "data": [
+                        {
+                            "codigo_verificacao": "EEC64F578FF14DDE",
+                            "cpf_cnpj": "368.353.728-00",
+                            "dados_solicitacao": {
+                                "mensagem": null,
+                                "protocolo": null,
+                                "nome_solicitado": null,
+                                "documento_solicitado": null,
+                                "data_socilitacao": null,
+                                "nome_mae": null,
+                                "data_nascimento": null,
+                                "documento_adicional": null,
+                                "documento": null,
+                                "endereco": null,
+                                "telefone": null
+                            },
+                            "mensagem": "N\u00c3O CONSTAM",
+                            "nada_consta": true,
+                            "nome": "\r\n            GUILHERME JANKU ACHCAR\r\n        ",
+                            "nome_social": null,
+                            "normalizado_cpf_cnpj": "36835372800",
+                            "numero_certidao": " 2024\/000009299189",
+                            "site_receipt": "https:\/\/us-central1-infosimples-data.cloudfunctions.net\/infosimples-storage\/26200\/gI0mhHuL4qrXa_nRX2ByFDUoxPDOZY3YvjV0hwqFbTg=\/1735130533\/4tkjBD\/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2luZm9zaW1wbGVzLWFwaS10bXAvYXBpL3RyaWJ1bmFsL3RyZjMvY2VydGlkYW8tZGlzdHIvMjAyNDEyMTgwOTQyMTMvT1FNeFVFYXhjSGJscUxLVHh1Y2ZOUDJFR3NiZWpiUzEvYTFjMWQyMzgzYmI2YTFlNTQzZTU3MGM1ZjQ1ZmYxZWJfMF9LNXc=.html"
+                        }
+                    ],
+                    "errors": [],
+                    "site_receipts": [
+                        "https:\/\/us-central1-infosimples-data.cloudfunctions.net\/infosimples-storage\/26200\/gI0mhHuL4qrXa_nRX2ByFDUoxPDOZY3YvjV0hwqFbTg=\/1735130533\/4tkjBD\/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2luZm9zaW1wbGVzLWFwaS10bXAvYXBpL3RyaWJ1bmFsL3RyZjMvY2VydGlkYW8tZGlzdHIvMjAyNDEyMTgwOTQyMTMvT1FNeFVFYXhjSGJscUxLVHh1Y2ZOUDJFR3NiZWpiUzEvYTFjMWQyMzgzYmI2YTFlNTQzZTU3MGM1ZjQ1ZmYxZWJfMF9LNXc=.html"
+                    ]
+                },
+                "Certid\u00e3o Criminal": {
+                    "code": 200,
+                    "code_message": "A requisi\u00e7\u00e3o foi processada com sucesso.",
+                    "header": {
+                        "api_version": "v2",
+                        "api_version_full": "2.2.23-20241218090505",
+                        "product": "Consultas",
+                        "service": "tribunal\/trf3\/certidao-distr",
+                        "parameters": {
+                            "abrangencia": "1",
+                            "cpf": "36835372800",
+                            "tipo": "2"
+                        },
+                        "client_name": "F2 Data Tecnologia Ltda",
+                        "token_name": "Dify",
+                        "billable": true,
+                        "price": "0.24",
+                        "requested_at": "2024-12-18T09:42:22.000-03:00",
+                        "elapsed_time_in_milliseconds": 8011,
+                        "remote_ip": "179.99.174.232",
+                        "signature": "U2FsdGVkX1\/O9\/AM5zPgb8TcyPcD7qKlM7bWgNmuCGDflHb6HZojLsfqn3wTbxbW4UbaagZZoF6H5MwNARtnJQ=="
+                    },
+                    "data_count": 1,
+                    "data": [
+                        {
+                            "codigo_verificacao": "C1C00149EADA61B2",
+                            "cpf_cnpj": "368.353.728-00",
+                            "dados_solicitacao": {
+                                "mensagem": null,
+                                "protocolo": null,
+                                "nome_solicitado": null,
+                                "documento_solicitado": null,
+                                "data_socilitacao": null,
+                                "nome_mae": null,
+                                "data_nascimento": null,
+                                "documento_adicional": null,
+                                "documento": null,
+                                "endereco": null,
+                                "telefone": null
+                            },
+                            "mensagem": "N\u00c3O CONSTAM",
+                            "nada_consta": true,
+                            "nome": "\r\n            GUILHERME JANKU ACHCAR\r\n                (nome da m\u00e3e INES JANKU ACHCAR e data de nascimento 21\/01\/1988)\r\n        ",
+                            "nome_social": null,
+                            "normalizado_cpf_cnpj": "36835372800",
+                            "numero_certidao": " 2024\/000009299193",
+                            "site_receipt": "https:\/\/us-central1-infosimples-data.cloudfunctions.net\/infosimples-storage\/26200\/FYMOsrI7wuOE2WqLspqKnlRfe_rY5AF8tEa4GdCWMmE=\/1735130542\/4bHV0T\/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2luZm9zaW1wbGVzLWFwaS10bXAvYXBpL3RyaWJ1bmFsL3RyZjMvY2VydGlkYW8tZGlzdHIvMjAyNDEyMTgwOTQyMjIvSjZrZ3BVckhaUHFLM2JkWnJrblE3ZDdPRmFNbzhzbzcvMTdhZmYzN2VhNTM0NjRkMGRjNzgzZDIyMWUzYWNjZjJfMF9vS0U=.html"
+                        }
+                    ],
+                    "errors": [],
+                    "site_receipts": [
+                        "https:\/\/us-central1-infosimples-data.cloudfunctions.net\/infosimples-storage\/26200\/FYMOsrI7wuOE2WqLspqKnlRfe_rY5AF8tEa4GdCWMmE=\/1735130542\/4bHV0T\/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2luZm9zaW1wbGVzLWFwaS10bXAvYXBpL3RyaWJ1bmFsL3RyZjMvY2VydGlkYW8tZGlzdHIvMjAyNDEyMTgwOTQyMjIvSjZrZ3BVckhaUHFLM2JkWnJrblE3ZDdPRmFNbzhzbzcvMTdhZmYzN2VhNTM0NjRkMGRjNzgzZDIyMWUzYWNjZjJfMF9vS0U=.html"
+                    ]
+                }
+            },
+            "labour-court": {
+                "code": 200,
+                "code_message": "A requisi\u00e7\u00e3o foi processada com sucesso.",
+                "header": {
+                    "api_version": "v2",
+                    "api_version_full": "2.2.23-20241218090505",
+                    "product": "Consultas",
+                    "service": "tribunal\/trt15\/ceat",
+                    "parameters": {
+                        "cpf": "36835372800"
+                    },
+                    "client_name": "F2 Data Tecnologia Ltda",
+                    "token_name": "Dify",
+                    "billable": true,
+                    "price": "0.24",
+                    "requested_at": "2024-12-18T09:42:25.000-03:00",
+                    "elapsed_time_in_milliseconds": 3043,
+                    "remote_ip": "179.99.174.232",
+                    "signature": "U2FsdGVkX18\/C4ssUl8tnYvP1OjKQBFVZ8x+s6lDnPGvG0syYDA0G+pBqYjj3n\/GnVyHbwlp7EeZwjWa6Z3dqw=="
+                },
+                "data_count": 1,
+                "data": [
+                    {
+                        "certidao_codigo": "3652019\/2024",
+                        "conseguiu_emitir_certidao_negativa": true,
+                        "emissao_data": "18\/12\/2024 09:42:21",
+                        "mensagem": "CERTIFICA-SE que, ap\u00f3s consulta eletr\u00f4nica ao banco de dados de processos f\u00edsicos e eletr\u00f4nicos de 1\u00aa e 2\u00aa inst\u00e2ncias do Tribunal Regional do Trabalho da 15\u00aa Regi\u00e3o, pesquisando-se os termos digitados - CPF: 368.353.728-00 - n\u00e3o existe a\u00e7\u00e3o tramitando.",
+                        "nome": null,
+                        "validade_data": "17\/01\/2025",
+                        "site_receipt": "https:\/\/us-central1-infosimples-data.cloudfunctions.net\/infosimples-storage\/26200\/06MAfQOwHqhTDkUMvoSqSCUSA4B7bsSNV5zEIh7UA-M=\/1735130545\/TkOQ9S\/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2luZm9zaW1wbGVzLWFwaS10bXAvYXBpL3RyaWJ1bmFsL3RydDE1L2NlYXQvMjAyNDEyMTgwOTQyMjUvQXh2b3lZYVdqdVR0QVRrTXdZMTBDWU5iazZSMlE0QlkvMTNkNTRhNzBhMWVkOTgyNjg3ZmM5MWFmNDczM2QyMzFfMF80NG8=.pdf"
+                    }
+                ],
+                "errors": [],
+                "site_receipts": [
+                    "https:\/\/us-central1-infosimples-data.cloudfunctions.net\/infosimples-storage\/26200\/06MAfQOwHqhTDkUMvoSqSCUSA4B7bsSNV5zEIh7UA-M=\/1735130545\/TkOQ9S\/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2luZm9zaW1wbGVzLWFwaS10bXAvYXBpL3RyaWJ1bmFsL3RydDE1L2NlYXQvMjAyNDEyMTgwOTQyMjUvQXh2b3lZYVdqdVR0QVRrTXdZMTBDWU5iazZSMlE0QlkvMTNkNTRhNzBhMWVkOTgyNjg3ZmM5MWFmNDczM2QyMzFfMF80NG8=.pdf"
+                ]
+            },
+            "protests": {
+                "metaDados": {
+                    "consultaNome": "Protestos - Nacional",
+                    "consultaUid": "direct-dda5a39c-b21d-46e4-9b3a-3fb1ffd7ff9b",
+                    "chave": "CPF=36835372800;",
+                    "usuario": "Guilherme Achcar",
+                    "mensagem": "Sucesso",
+                    "ip": "179.99.174.232",
+                    "resultadoId": 1,
+                    "resultado": "Sucesso",
+                    "apiVersao": "v3",
+                    "gerarComprovante": false,
+                    "urlComprovante": null,
+                    "assincrono": false,
+                    "data": "18\/12\/2024 09:45:26",
+                    "tempoExecucaoMs": 2103
+                },
+                "retorno": {
+                    "constamProtestos": false,
+                    "documentoConsultado": "368.353.728-00",
+                    "dataConsulta": "18\/12\/2024 09:45:11",
+                    "protestos": [],
+                    "totalNumProtestos": 0,
+                    "observacoes": "A entidade n\u00e3o possui protestos"
+                }
+            },
+            "receita-federal": {
+                "code": 200,
+                "code_message": "A requisi\u00e7\u00e3o foi processada com sucesso.",
+                "header": {
+                    "api_version": "v2",
+                    "api_version_full": "2.2.23-20241218090505",
+                    "product": "Consultas",
+                    "service": "receita-federal\/cpf",
+                    "parameters": {
+                        "birthdate": "1988-01-21",
+                        "cpf": "36835372800"
+                    },
+                    "client_name": "F2 Data Tecnologia Ltda",
+                    "token_name": "Dify",
+                    "billable": true,
+                    "price": "0.24",
+                    "requested_at": "2024-12-18T09:45:31.000-03:00",
+                    "elapsed_time_in_milliseconds": 1964,
+                    "remote_ip": "179.99.174.232",
+                    "signature": "U2FsdGVkX1+RcSNX\/wQPbOoCiQu5rnviWv8x3bgO3YjSAZG55Vmj\/t+LojcxtZO3Y01QsbSi+ZhFi+4JlNUycw=="
+                },
+                "data_count": 1,
+                "data": [
+                    {
+                        "ano_obito": null,
+                        "consulta_comprovante": "4E55.0DC1.F9E0.9A13",
+                        "consulta_datahora": "18\/12\/2024 09:45:30",
+                        "consulta_digito_verificador": "00",
+                        "cpf": "368.353.728-00",
+                        "data_inscricao": "07\/04\/2005",
+                        "data_nascimento": "21\/01\/1988",
+                        "nome": "GUILHERME JANKU ACHCAR",
+                        "nome_civil": "",
+                        "nome_social": "",
+                        "normalizado_ano_obito": 0,
+                        "normalizado_consulta_datahora": "18\/12\/2024 09:45:30",
+                        "normalizado_cpf": "36835372800",
+                        "normalizado_data_inscricao": "07\/04\/2005",
+                        "normalizado_data_nascimento": "21\/01\/1988",
+                        "origem": "web",
+                        "qrcode_url": "https:\/\/servicos.receita.fazenda.gov.br\/Servicos\/CPF\/ca\/ResultadoAut.asp?cp=36835372800&cc=4E550DC1F9E09A13&de=18122024&he=094530&dv=00&em=01",
+                        "situacao_cadastral": "REGULAR",
+                        "site_receipt": "https:\/\/us-central1-infosimples-data.cloudfunctions.net\/infosimples-storage\/26200\/aCIcedSrlO1OduHKkp_K7Po3CkyzKQ6QqxU_pDdemQI=\/1735130731\/gA6n6n\/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2luZm9zaW1wbGVzLWFwaS10bXAvYXBpL3JlY2VpdGEtZmVkZXJhbC9jcGYvMjAyNDEyMTgwOTQ1MzAvMzMxOHhvVHRPa3J6S2V0eGdwMlFGX1ZjU3Z3Q3lCd0EvYTIwZDE4MTJhMjYzMzhiZDZlZmM3ZjQ3YTk4ODk1YzFfMF8xbG8=.html"
+                    }
+                ],
+                "errors": [],
+                "site_receipts": [
+                    "https:\/\/us-central1-infosimples-data.cloudfunctions.net\/infosimples-storage\/26200\/aCIcedSrlO1OduHKkp_K7Po3CkyzKQ6QqxU_pDdemQI=\/1735130731\/gA6n6n\/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2luZm9zaW1wbGVzLWFwaS10bXAvYXBpL3JlY2VpdGEtZmVkZXJhbC9jcGYvMjAyNDEyMTgwOTQ1MzAvMzMxOHhvVHRPa3J6S2V0eGdwMlFGX1ZjU3Z3Q3lCd0EvYTIwZDE4MTJhMjYzMzhiZDZlZmM3ZjQ3YTk4ODk1YzFfMF8xbG8=.html"
+                ]
+            },
+            "debt-certificate": {
+                "code": 200,
+                "code_message": "A requisi\u00e7\u00e3o foi processada com sucesso.",
+                "header": {
+                    "api_version": "v2",
+                    "api_version_full": "2.2.23-20241218090505",
+                    "product": "Consultas",
+                    "service": "receita-federal\/pgfn\/nova",
+                    "parameters": {
+                        "cpf": "36835372800"
+                    },
+                    "client_name": "F2 Data Tecnologia Ltda",
+                    "token_name": "Dify",
+                    "billable": true,
+                    "price": "0.26",
+                    "requested_at": "2024-12-18T09:46:14.000-03:00",
+                    "elapsed_time_in_milliseconds": 12703,
+                    "remote_ip": "179.99.174.232",
+                    "signature": "U2FsdGVkX1\/Zn0CqYH3HSFsq1idiOO3iCFv11Ou8VmQDuQIVVuRaN3g0pDEhQakZokroFEP0ga+pbv9\/ZADScg=="
+                },
+                "data_count": 1,
+                "data": [
+                    {
+                        "certidao": "CERTID\u00c3O NEGATIVA DE D\u00c9BITOS RELATIVOS AOS TRIBUTOS FEDERAIS E \u00c0 D\u00cdVIDA ATIVA DA UNI\u00c3O",
+                        "certidao_codigo": "7252.AEFA.6E01.6A90",
+                        "cnpj": null,
+                        "cnpj_situacao": null,
+                        "comprovante_tipo": "pdf",
+                        "conseguiu_emitir_certidao_negativa": true,
+                        "consulta_comprovante": "7252.AEFA.6E01.6A90",
+                        "consulta_datahora": "18\/12\/2024 09:45:33",
+                        "cpf": "368.353.728-00",
+                        "debitos_pgfn": false,
+                        "debitos_rfb": false,
+                        "descricao": null,
+                        "emissao_data": "18\/12\/2024",
+                        "mensagem": "CERTID\u00c3O NEGATIVA DE D\u00c9BITOS RELATIVOS AOS TRIBUTOS FEDERAIS E \u00c0 D\u00cdVIDA ATIVA DA UNI\u00c3O",
+                        "nome": "GUILHERME JANKU ACHCAR",
+                        "normalizado_cnpj": "",
+                        "normalizado_consulta_datahora": "18\/12\/2024 09:45:33",
+                        "normalizado_cpf": "36835372800",
+                        "observacoes": null,
+                        "razao_social": "GUILHERME JANKU ACHCAR",
+                        "situacao": null,
+                        "tipo": null,
+                        "validade": "16\/06\/2025",
+                        "validade_data": "16\/06\/2025",
+                        "validade_prorrogada": null,
+                        "site_receipt": "https:\/\/us-central1-infosimples-data.cloudfunctions.net\/infosimples-storage\/26200\/HDM8-JJPTZIAg9MKFE9XLSSR_hsXCQrUEusi6l4QNw0=\/1735130774\/nSFYao\/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2luZm9zaW1wbGVzLWFwaS10bXAvYXBpL3JlY2VpdGEtZmVkZXJhbC9wZ2ZuL25vdmEvMjAyNDEyMTgwOTQ2MTQvb09rdUFPR1kzTmV1QW1kamlTTDJoQjdnQXBpMkRKQjkvOTM1MGQyZjMwODQzODIwOGU2Y2E2NGE3NzZhZjk4MjdfMF8tUE0=.pdf"
+                    }
+                ],
+                "errors": [],
+                "site_receipts": [
+                    "https:\/\/us-central1-infosimples-data.cloudfunctions.net\/infosimples-storage\/26200\/HDM8-JJPTZIAg9MKFE9XLSSR_hsXCQrUEusi6l4QNw0=\/1735130774\/nSFYao\/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2luZm9zaW1wbGVzLWFwaS10bXAvYXBpL3JlY2VpdGEtZmVkZXJhbC9wZ2ZuL25vdmEvMjAyNDEyMTgwOTQ2MTQvb09rdUFPR1kzTmV1QW1kamlTTDJoQjdnQXBpMkRKQjkvOTM1MGQyZjMwODQzODIwOGU2Y2E2NGE3NzZhZjk4MjdfMF8tUE0=.pdf"
+                ]
+            },
+            "cndt": {
+                "code": 200,
+                "code_message": "A requisi\u00e7\u00e3o foi processada com sucesso.",
+                "header": {
+                    "api_version": "v2",
+                    "api_version_full": "2.2.23-20241218090505",
+                    "product": "Consultas",
+                    "service": "tribunal\/tst\/cndt",
+                    "parameters": {
+                        "cpf": "36835372800"
+                    },
+                    "client_name": "F2 Data Tecnologia Ltda",
+                    "token_name": "Dify",
+                    "billable": true,
+                    "price": "0.24",
+                    "requested_at": "2024-12-18T09:46:25.000-03:00",
+                    "elapsed_time_in_milliseconds": 11072,
+                    "remote_ip": "179.99.174.232",
+                    "signature": "U2FsdGVkX19InLqXI1FZpZHYJ4MlbuOoEsaaaaZ+8JYMQd33x+7Y9ID2k9yLq2Mv5r6WrZkuilNeJQQMxXttBQ=="
+                },
+                "data_count": 1,
+                "data": [
+                    {
+                        "certidao": "86985425\/2024",
+                        "certidao_codigo": "86985425\/2024",
+                        "cnpj": "",
+                        "conseguiu_emitir_certidao_negativa": true,
+                        "consta": false,
+                        "cpf": "368.353.728-00",
+                        "emissao_data": "18\/12\/2024",
+                        "expedicao": "18\/12\/2024, \u00e0s 09:46:21",
+                        "mensagem": "CERTID\u00c3O NEGATIVA DE D\u00c9BITOS TRABALHISTAS",
+                        "nome": "GUILHERME JANKU ACHCAR",
+                        "normalizado_cnpj": "",
+                        "normalizado_cpf": "36835372800",
+                        "normalizado_expedicao": "18\/12\/2024 09:46:21",
+                        "normalizado_validade": "16\/06\/2025",
+                        "processos_encontrados": [],
+                        "total_de_processos": "",
+                        "validade": "16\/06\/2025",
+                        "validade_data": "16\/06\/2025",
+                        "site_receipt": "https:\/\/us-central1-infosimples-data.cloudfunctions.net\/infosimples-storage\/26200\/5XLlGKTIaOcjahYOdP-XvqR6tyr-MYUMaFgY-AcK_ss=\/1735130785\/ungsUU\/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2luZm9zaW1wbGVzLWFwaS10bXAvYXBpL3RyaWJ1bmFsL3RzdC9jbmR0LzIwMjQxMjE4MDk0NjI1L01RMmFkWXIwSlFJM2F1MUNMY0ZZY3ppZ1JHU0ZpdkxRLzUwNzFiOTEwNTk5ZTBjZmU0NzRlM2I2NDc5MWZmODUwXzBfWG5n.pdf"
+                    }
+                ],
+                "errors": [],
+                "site_receipts": [
+                    "https:\/\/us-central1-infosimples-data.cloudfunctions.net\/infosimples-storage\/26200\/5XLlGKTIaOcjahYOdP-XvqR6tyr-MYUMaFgY-AcK_ss=\/1735130785\/ungsUU\/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2luZm9zaW1wbGVzLWFwaS10bXAvYXBpL3RyaWJ1bmFsL3RzdC9jbmR0LzIwMjQxMjE4MDk0NjI1L01RMmFkWXIwSlFJM2F1MUNMY0ZZY3ppZ1JHU0ZpdkxRLzUwNzFiOTEwNTk5ZTBjZmU0NzRlM2I2NDc5MWZmODUwXzBfWG5n.pdf"
+                ]
+            }
+        }
+    },
+    "url": "\/certificates\/search",
+    "version": ""
+}
